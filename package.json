@@ -1,0 +1,23 @@
+{
+  "name": "seonjulee.github.com",
+  "version": "1.0.0",
+  "description": "```javascript\r function() {\r   console.log(1);\r }\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seonjuLee/seonjulee.github.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seonjuLee/seonjulee.github.com/issues"
+  },
+  "homepage": "https://github.com/seonjuLee/seonjulee.github.com#readme",
+  "devDependencies": {
+    "jest": "^22.0.4"
+  }
+}
